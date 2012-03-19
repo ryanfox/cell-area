@@ -1,0 +1,10 @@
+run("8-bit");
+run("Find Edges");
+run("Make Binary");
+run("Open");
+run("Erode");
+run("Erode");
+run("Dilate");
+run("Dilate");
+run("Invert");
+

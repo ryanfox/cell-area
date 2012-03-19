@@ -1,0 +1,2 @@
+run("Invert");
+run("Analyze Particles...", "size=200-Infinity circularity=0.00-1.00 show=Outlines display clear");
